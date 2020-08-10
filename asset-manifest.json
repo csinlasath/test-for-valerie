@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/test-for-valerie/static/css/main.f35034a3.chunk.css",
-    "main.js": "/test-for-valerie/static/js/main.2a31ebb4.chunk.js",
-    "main.js.map": "/test-for-valerie/static/js/main.2a31ebb4.chunk.js.map",
+    "main.js": "/test-for-valerie/static/js/main.ddbade09.chunk.js",
+    "main.js.map": "/test-for-valerie/static/js/main.ddbade09.chunk.js.map",
     "runtime-main.js": "/test-for-valerie/static/js/runtime-main.56630826.js",
     "runtime-main.js.map": "/test-for-valerie/static/js/runtime-main.56630826.js.map",
     "static/js/2.7f2ec9e4.chunk.js": "/test-for-valerie/static/js/2.7f2ec9e4.chunk.js",
     "static/js/2.7f2ec9e4.chunk.js.map": "/test-for-valerie/static/js/2.7f2ec9e4.chunk.js.map",
     "index.html": "/test-for-valerie/index.html",
-    "precache-manifest.d5700a5741f8efc0241ea5e9f5ebeb2a.js": "/test-for-valerie/precache-manifest.d5700a5741f8efc0241ea5e9f5ebeb2a.js",
+    "precache-manifest.a87cb9dac49e29c7c70797729e613940.js": "/test-for-valerie/precache-manifest.a87cb9dac49e29c7c70797729e613940.js",
     "service-worker.js": "/test-for-valerie/service-worker.js",
     "static/css/main.f35034a3.chunk.css.map": "/test-for-valerie/static/css/main.f35034a3.chunk.css.map",
     "static/js/2.7f2ec9e4.chunk.js.LICENSE.txt": "/test-for-valerie/static/js/2.7f2ec9e4.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.56630826.js",
     "static/js/2.7f2ec9e4.chunk.js",
     "static/css/main.f35034a3.chunk.css",
-    "static/js/main.2a31ebb4.chunk.js"
+    "static/js/main.ddbade09.chunk.js"
   ]
 }

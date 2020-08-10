@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6907dee0902d45fe1a97e5af2ecd748b",
+    "revision": "1e0a5838ede8189742db99a3a81ce64d",
     "url": "/test-for-valerie/index.html"
   },
   {
-    "revision": "2d6746c5d31f3f44902d",
+    "revision": "687007838735d46df73d",
     "url": "/test-for-valerie/static/css/main.f35034a3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-for-valerie/static/js/2.7f2ec9e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d6746c5d31f3f44902d",
-    "url": "/test-for-valerie/static/js/main.2a31ebb4.chunk.js"
+    "revision": "687007838735d46df73d",
+    "url": "/test-for-valerie/static/js/main.ddbade09.chunk.js"
   },
   {
     "revision": "80533dd7471bc463b5e1",
