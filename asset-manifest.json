@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/employee-directory/static/css/main.f35034a3.chunk.css",
-    "main.js": "/employee-directory/static/js/main.05493562.chunk.js",
-    "main.js.map": "/employee-directory/static/js/main.05493562.chunk.js.map",
-    "runtime-main.js": "/employee-directory/static/js/runtime-main.759497ab.js",
-    "runtime-main.js.map": "/employee-directory/static/js/runtime-main.759497ab.js.map",
-    "static/js/2.aa32979b.chunk.js": "/employee-directory/static/js/2.aa32979b.chunk.js",
-    "static/js/2.aa32979b.chunk.js.map": "/employee-directory/static/js/2.aa32979b.chunk.js.map",
-    "index.html": "/employee-directory/index.html",
-    "precache-manifest.305de3b0776f2599895115722616e576.js": "/employee-directory/precache-manifest.305de3b0776f2599895115722616e576.js",
-    "service-worker.js": "/employee-directory/service-worker.js",
-    "static/css/main.f35034a3.chunk.css.map": "/employee-directory/static/css/main.f35034a3.chunk.css.map",
-    "static/js/2.aa32979b.chunk.js.LICENSE.txt": "/employee-directory/static/js/2.aa32979b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/employee-directory/static/media/logo.5d5d9eef.svg"
+    "main.css": "/test-for-valerie/static/css/main.f35034a3.chunk.css",
+    "main.js": "/test-for-valerie/static/js/main.2a31ebb4.chunk.js",
+    "main.js.map": "/test-for-valerie/static/js/main.2a31ebb4.chunk.js.map",
+    "runtime-main.js": "/test-for-valerie/static/js/runtime-main.56630826.js",
+    "runtime-main.js.map": "/test-for-valerie/static/js/runtime-main.56630826.js.map",
+    "static/js/2.7f2ec9e4.chunk.js": "/test-for-valerie/static/js/2.7f2ec9e4.chunk.js",
+    "static/js/2.7f2ec9e4.chunk.js.map": "/test-for-valerie/static/js/2.7f2ec9e4.chunk.js.map",
+    "index.html": "/test-for-valerie/index.html",
+    "precache-manifest.d5700a5741f8efc0241ea5e9f5ebeb2a.js": "/test-for-valerie/precache-manifest.d5700a5741f8efc0241ea5e9f5ebeb2a.js",
+    "service-worker.js": "/test-for-valerie/service-worker.js",
+    "static/css/main.f35034a3.chunk.css.map": "/test-for-valerie/static/css/main.f35034a3.chunk.css.map",
+    "static/js/2.7f2ec9e4.chunk.js.LICENSE.txt": "/test-for-valerie/static/js/2.7f2ec9e4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/test-for-valerie/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.759497ab.js",
-    "static/js/2.aa32979b.chunk.js",
+    "static/js/runtime-main.56630826.js",
+    "static/js/2.7f2ec9e4.chunk.js",
     "static/css/main.f35034a3.chunk.css",
-    "static/js/main.05493562.chunk.js"
+    "static/js/main.2a31ebb4.chunk.js"
   ]
 }
